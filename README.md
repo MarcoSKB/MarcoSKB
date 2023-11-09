@@ -10,7 +10,7 @@ Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize 
 
 📌 For more information, please see my [resume](http://example.com "resume").
 
-<br /><br />
+<br />
 <h2>What I know: 💼 </h2>
 
 | **Web development**   	| **Frameworks / Libs**         	| **Instruments** 	|
@@ -29,6 +29,8 @@ Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize 
 </div>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
+
+***
 
 <h2 style="margin: 0; color: #fc6203">Interesting stats: 📊</h2>
 <div style="display: flex; flex-direction: row;">
