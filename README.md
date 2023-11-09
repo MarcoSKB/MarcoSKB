@@ -3,11 +3,12 @@
 <div style="display: flex; flex-direction: row;">
 <img style="margin-right: 30px" align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="250"/>
 <div>
-<h2 style="margin: 0; color: #fc6203;">About me: 😃</h2>
+<span style="color: #fc6203;">About me: 😃</span>
 <div style="margin: 0;">Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize in creating effective and creative web applications. In my free time 🕒 I do research on new technologies and share my experience in the developer community. Lets create something amazing together! 🚀✨ I firmly believe that **no amount of knowledge is enough knowledge**.</div>
 <div>📁 Recent projects and skills can be found on my [portfolio website.](https://marcoskb.me/ "portfolio website.")</div><div>📌 For more information, please see my [resume](http://example.com "resume").</div>
 </div>
 </div>
+
 ###
 <h2 style="margin: 40px 0 15px 0; color: #fc6203">What I know: 💼</h2>
 | Лево выравнивание | По центру | По правому краю |
