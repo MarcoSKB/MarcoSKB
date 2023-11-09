@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 32px; margin: 0">Welcome to my Github! 👋</h1>
 
-<img align="left" src="https://github.com/MarcoSKB/MarcoSKB/blob/main/assets/hollor_knight3.gif?raw=true" width="300"/>
+<img align="left" src="https://github.com/MarcoSKB/MarcoSKB/blob/main/assets/hollor_knight.gif?raw=true" width="300"/>
 <br />
 <h2>About me: 😃</h2>
 
