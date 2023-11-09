@@ -8,10 +8,17 @@
 <div>📁 Recent projects and skills can be found on my [portfolio website.](https://marcoskb.me/ "portfolio website.")</div><div>📌 For more information, please see my [resume](http://example.com "resume").</div>
 </div>
 </div>
-<h2 style="margin: 40px 0 15px 0; color: #fc6203">What I know: 💼</h2><div style="display: flex; flex-direction: row;justify-content: space-between">
-<ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Web Development</h3><li>HTML5 & CSS3</li><li>JavaScript</li><li>TypeScript</li><li>Accessibility, SEO</li><li>Webpack / Vite / Gulp</li></ul><ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Frameworks / Libs</h3><li>React</li><li>Next.js</li><li>Headless UI / MUI / Ant UI</li><li>CSS Modules / TailwindCSS</li><li>Redux / ESLint / React Router</li></ul><ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Instruments</h3><li>Figma</li><li>VS Code</li><li>Jira Software</li><li>Git & GitHub</li><li>Adobe Photoshop</li></ul>
 
-</div>
+<h2 style="margin: 40px 0 15px 0; color: #fc6203">What I know: 💼</h2>
+| Web Development       | Frameworks / Libs             | Instruments           |
+|-----------------------|-------------------------------|-----------------------|
+| HTML5 & CSS3          | React                         | Figma                 |
+| JavaScript            | Next.js                       | VS Code               |
+| TypeScript            | Headless UI / MUI / Ant UI    | Jira Software         |
+| Accessibility, SEO    | CSS Modules / TailwindCSS     | Git & GitHub          |
+| Webpack / Vite / Gulp | Redux / ESLint / React Router | Adobe Photoshop       |
+
+
 <h2 style="margin: 30px 0 0 0; color: #fc6203">What I want to do next: 🤔</h2>
 <div style="display: flex; flex-direction: row;justify-content: space-between;"><div>- Learn GSAP and Three.js libraries
 - Backend Development (to become a Full-Stack developer)
