@@ -3,7 +3,7 @@
 ***
 
 <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="250"/>
-<h2 style="margin: 40px 0 0 0">About me: 😃</h2>
+<h2 style="margin: 200px 0 0 0">About me: 😃</h2>
 
 Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize in creating effective and creative web applications. In my free time 🕒 I do research on new technologies and share my experience in the developer community. Lets create something amazing together! 🚀✨ I firmly believe that **no amount of knowledge is enough knowledge**.
 
