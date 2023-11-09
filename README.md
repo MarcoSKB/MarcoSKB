@@ -10,25 +10,17 @@
 </div>
 
 <h2 style="margin: 40px 0 15px 0; color: #fc6203">What I know: 💼</h2>
-| Web Development       | Frameworks / Libs             | Instruments           |
-|-----------------------|-------------------------------|-----------------------|
-| HTML5 & CSS3          | React                         | Figma                 |
-| JavaScript            | Next.js                       | VS Code               |
-| TypeScript            | Headless UI / MUI / Ant UI    | Jira Software         |
-| Accessibility, SEO    | CSS Modules / TailwindCSS     | Git & GitHub          |
-| Webpack / Vite / Gulp | Redux / ESLint / React Router | Adobe Photoshop       |
-
 
 <h2 style="margin: 30px 0 0 0; color: #fc6203">What I want to do next: 🤔</h2>
 <div style="display: flex; flex-direction: row;justify-content: space-between;"><div>- Learn GSAP and Three.js libraries
 - Backend Development (to become a Full-Stack developer)
 - Unlock the secret to the universe 🤭
 </div>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
 
 <h2 style="margin: 0; color: #fc6203">Interesting stats: 📊</h2>
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;" align="center">
 <picture><source height="200" srcset="https://github-readme-stats.vercel.app/api?username=MarcoSKB&show_icons=true&theme=dark&title_color=fc6203&rank_icon=github" media="(prefers-color-scheme: dark)"/><source height="200" srcset="https://github-readme-stats.vercel.app/api?username=MarcoSKB&show_icons=true&title_color=fc6203&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcoSKB&show_icons=true&title_color=fc6203&rank_icon=github" />
 </picture>
 <picture><source height="200" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSKB&layout=compact&theme=dark&title_color=fc6203&langs_count=8&card_width=320" media="(prefers-color-scheme: dark)"/><source height="200" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSKB&layout=compact&title_color=fc6203" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSKB&layout=compact&title_color=fc6203" />
