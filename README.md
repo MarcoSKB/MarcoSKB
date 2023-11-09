@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 32px; margin: 0">Welcome to my Github! 👋</h1>
 
-<img align="left" src="https://github.com/MarcoSKB/MarcoSKB/blob/main/assets/hollor_knight3.gif?raw=true" width="250"/>
+<img align="left" src="https://github.com/MarcoSKB/MarcoSKB/blob/main/assets/hollor_knight3.gif?raw=true" width="300"/>
 <br />
 <h2>About me: 😃</h2>
 
@@ -24,9 +24,9 @@ Hi, I am Marco, a web developer from sunny **Almaty, Kazakhstan** 🌞 I special
 
 </div>
 
+<h2>What I want to do next: 🤔</h2>
 <img align="right" src="https://raw.githubusercontent.com/MarcoSKB/MarcoSKB/main/assets/bonefire.gif" width="200"/>
 
-<h2>What I want to do next: 🤔</h2>
 <br />
   
 - Learn GSAP and Three.js libraries
