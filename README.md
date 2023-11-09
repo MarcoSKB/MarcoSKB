@@ -3,6 +3,7 @@
 ***
 
 <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="250"/>
+<br /><br />
 <h2>About me: 😃</h2>
 
 Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize in creating effective and creative web applications. In my free time 🕒 I do research on new technologies and share my experience in the developer community. Lets create something amazing together! 🚀✨ I firmly believe that **no amount of knowledge is enough knowledge**.
@@ -12,9 +13,8 @@ Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize 
 📌 For more information, please see my [resume](http://example.com "resume").
 
 ***
-<br /><br /><br /><br />
+<br /><br />
 <h2>What I know: 💼 </h2>
-
 
 <ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Web Development</h3><li>HTML5 & CSS3</li><li>JavaScript</li><li>TypeScript</li><li>Accessibility, SEO</li><li>Webpack / Vite / Gulp</li></ul>
 <ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Frameworks / Libs</h3><li>React</li><li>Next.js</li><li>Headless UI / MUI / Ant UI</li><li>CSS Modules / TailwindCSS</li><li>Redux / ESLint / React Router</li></ul>
