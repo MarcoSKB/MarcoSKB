@@ -1,7 +1,5 @@
 <h1 align="center" style="font-size: 32px; margin: 0">Welcome to my Github! 👋</h1>
 
-***
-
 <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="250"/>
 <br />
 <h2>About me: 😃</h2>
