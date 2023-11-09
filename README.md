@@ -8,7 +8,7 @@
 <div>📁 Recent projects and skills can be found on my [portfolio website.](https://marcoskb.me/ "portfolio website.")</div><div>📌 For more information, please see my [resume](http://example.com "resume").</div>
 </div>
 </div>
-
+###
 <h2 style="margin: 40px 0 15px 0; color: #fc6203">What I know: 💼</h2>
 
 <h2 style="margin: 30px 0 0 0; color: #fc6203">What I want to do next: 🤔</h2>
@@ -18,7 +18,7 @@
 - Unlock the secret to the universe 🤭
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
-
+###
 <h2 style="margin: 0; color: #fc6203">Interesting stats: 📊</h2>
 <div style="display: flex; flex-direction: row;" align="center">
 <picture><source height="200" srcset="https://github-readme-stats.vercel.app/api?username=MarcoSKB&show_icons=true&theme=dark&title_color=fc6203&rank_icon=github" media="(prefers-color-scheme: dark)"/><source height="200" srcset="https://github-readme-stats.vercel.app/api?username=MarcoSKB&show_icons=true&title_color=fc6203&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcoSKB&show_icons=true&title_color=fc6203&rank_icon=github" />
