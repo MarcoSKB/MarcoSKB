@@ -12,12 +12,10 @@
 <h2 style="margin: 40px 0 15px 0; color: #fc6203">What I know: 💼</h2>
 
 <h2 style="margin: 30px 0 0 0; color: #fc6203">What I want to do next: 🤔</h2>
-<div style="display: flex; flex-direction: row;justify-content: space-between;">
-  <div>
+<div align="center">
 - Learn GSAP and Three.js libraries
 - Backend Development (to become a Full-Stack developer)
 - Unlock the secret to the universe 🤭
-</div>
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
 
