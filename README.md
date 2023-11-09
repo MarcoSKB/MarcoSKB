@@ -13,9 +13,14 @@ Hi, I am Marco, a web developer from sunny Almaty, Kazakhstan 🌞 I specialize 
 <br /><br />
 <h2>What I know: 💼 </h2>
 
-<ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Web Development</h3><li>HTML5 & CSS3</li><li>JavaScript</li><li>TypeScript</li><li>Accessibility, SEO</li><li>Webpack / Vite / Gulp</li></ul>
-<ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Frameworks / Libs</h3><li>React</li><li>Next.js</li><li>Headless UI / MUI / Ant UI</li><li>CSS Modules / TailwindCSS</li><li>Redux / ESLint / React Router</li></ul>
-<ul style="margin: 0px; padding: 0px;"><h3 style="margin: 0 0 8px 0;">Instruments</h3><li>Figma</li><li>VS Code</li><li>Jira Software</li><li>Git & GitHub</li><li>Adobe Photoshop</li></ul>
+| Web development       	| Frameworks / Libs             	| Instruments     	|
+|-----------------------	|-------------------------------	|-----------------	|
+| HTML5 & CSS3          	| React                         	| Figma           	|
+| JavaScript            	| Next.js                       	| VS Code         	|
+| TypeScript            	| Headless UI / MUI / Ant UI    	| Jira Software   	|
+| Accessibility, SEO    	| CSS Modules / TailwindCSS     	| Git & GitHub    	|
+| Webpack / Vite / Gulp 	| Redux / React Router / ESLint 	| Adobe Photoshop 	|
+
 
 </div>
 <h2 style="margin: 30px 0 0 0; color: #fc6203">What I want to do next: 🤔</h2>
