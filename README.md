@@ -4,7 +4,7 @@
 <br />
 <h2>About me: 😃</h2>
 
-Hi, I am Marco, a web developer from sunny **Almaty, Kazakhstan** 🌞 I specialize in creating effective and creative **web applications**. In my free time 🕒 I do research on new technologies and share my experience in the developer community. 🚀✨ Lets create something amazing together! I firmly believe that **no amount of knowledge is enough knowledge**.
+&nbsp;&nbsp;&nbsp;&nbsp;Hi, I am Marco, a web developer from sunny **Almaty, Kazakhstan** 🌞 I specialize in creating effective and creative **web applications**. In my free time 🕒 I do research on new technologies and share my experience in the developer community. 🚀✨ Lets create something amazing together! I firmly believe that **no amount of knowledge is enough knowledge**.
 
 <br />
 
@@ -12,10 +12,9 @@ Hi, I am Marco, a web developer from sunny **Almaty, Kazakhstan** 🌞 I special
 📌 For more information, please see my [resume](http://example.com "resume"). <br />
 ✉️ You can contact me by [e-mail](mailto:Marco.SKB@mail.ru).
 
-<br /><br />
+<br />
 
 <h2>What I know: 💼 </h2>
-
 <div align="center">
 
 | **Web development**   	| **Frameworks / Libs**         	| **Instruments** 	|
