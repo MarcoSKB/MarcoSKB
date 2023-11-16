@@ -23,7 +23,7 @@
 | JavaScript            	| Next.js                       	| VS Code         	|
 | TypeScript            	| Headless UI / MUI / Ant UI    	| Jira Software   	|
 | Accessibility, SEO    	| CSS Modules / TailwindCSS     	| Git & GitHub    	|
-| Webpack / Vite / Gulp 	| Redux / React Router / ESLint 	| Adobe Photoshop 	|
+| Webpack / Vite / Gulp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Redux / React Router / ESLint&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Adobe Photoshop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	|
 
 </div>
 
