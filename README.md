@@ -1,7 +1,6 @@
 <h1 align="center" style="font-size: 32px; margin: 0">Welcome to my Github! 👋</h1>
-
-<img align="left" src="https://github.com/MarcoSKB/MarcoSKB/blob/main/assets/hollor_knight.gif?raw=true" width="250"/>
 <br />
+<img align="left" src="https://github.com/MarcoSKB/MarcoSKB/blob/main/assets/hollor_knight.gif?raw=true" width="250"/>
 <h2>About me: 😃</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Hi, I am Marco, a web developer from sunny **Almaty, Kazakhstan** 🌞 I specialize in creating effective and creative **web applications**. In my free time 🕒 I do research on new technologies and share my experience in the developer community. 🚀✨ Lets create something amazing together! I firmly believe that **no amount of knowledge is enough knowledge**.
