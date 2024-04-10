@@ -10,7 +10,7 @@
 :bookmark_tabs: For more information, please see my [resume](http://marco.me/resume.pdf "resume"). <br /> -->
 :mailbox: You can contact me by [e-mail](mailto:Marco.SKB@mail.ru).
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 <h2>What I know: 💼 </h2>
 <div align="center">
