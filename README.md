@@ -31,7 +31,7 @@
 <br />
   
 - Learn GSAP and Three.js libraries
-- Backend Development (to become a Full-Stack developer)
+- Learn Rust and Bavy (Game engine)
 - Unlock the secret to the universe 🤭
   
 <br /><br />
