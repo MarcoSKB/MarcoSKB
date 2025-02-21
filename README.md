@@ -6,8 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Hi, I am Marco, a web developer from sunny **Almaty, Kazakhstan** 🌞 I specialize in creating effective and creative **web applications**. In my free time 🕒 I do research on new technologies and share my experience in the developer community. 🚀✨ Lets create something amazing together! I firmly believe that **no amount of knowledge is enough knowledge**.
 
 
-<!--:star: Recent projects and skills can be found on my [portfolio website](https://marco.me/ "portfolio website."). <br />
-:bookmark_tabs: For more information, please see my [resume](http://marco.me/resume.pdf "resume"). <br /> -->
+<!--:star: Recent projects and skills can be found on my [portfolio website](https://marco.me/ "portfolio website."). <br /> -->
+:bookmark_tabs: For more information, please see my [resume](https://github.com/MarcoSKB/MarcoSKB/blob/238e279e646aac25ea63aa294b154c3923e186b8/assets/Resume.pdf). <br />
 :mailbox: You can contact me by [e-mail](mailto:Marco.SKB@mail.ru).
 
 <br /><br /><br /><br /><br />
