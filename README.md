@@ -15,7 +15,7 @@
 <!--
 <br /><br /><br /><br /><br />
 -->
-<h2>What I know: 💼 </h2>
+<h2>What I know: </h2>
 <div align="center">
 
 | **Web development**   	| **Frameworks / Libs**         	| **Instruments** 	|
@@ -28,14 +28,13 @@
 
 </div>
 
-<h2>What I want to do next: 🤔</h2>
+<h2>What I want to do next: </h2>
 <img align="right" src="https://raw.githubusercontent.com/MarcoSKB/MarcoSKB/main/assets/bonefire.gif" width="200"/>
 
 <br />
   
 - Learn GSAP and Three.js libraries
 - Learn Rust and Bavy (Game engine)
-- Unlock the secret to the universe 🤭
   
 <br /><br />
   <!--
