@@ -10,7 +10,7 @@
 
 
 <!--:star: Recent projects and skills can be found on my [portfolio website](https://marco.me/ "portfolio website."). <br /> -->
-:bookmark_tabs: For more information, please see my [resume](https://github.com/MarcoSKB/MarcoSKB/blob/238e279e646aac25ea63aa294b154c3923e186b8/assets/Resume.pdf). <br />
+:bookmark_tabs: For more information, please see my [resume](https://github.com/MarcoSKB/MarcoSKB/blob/238e279e646aac25ea63aa294b154c3923e186b8/assets/bs.pdf). <br />
 :mailbox: You can contact me by [e-mail](mailto:Marco.SKB@mail.ru).
 <!--
 <br /><br /><br /><br /><br />
